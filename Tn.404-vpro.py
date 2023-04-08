@@ -5,7 +5,7 @@ print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=6289504315559&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=6283120388850&text=Assalamualaikum')
 
 
 def restart():
